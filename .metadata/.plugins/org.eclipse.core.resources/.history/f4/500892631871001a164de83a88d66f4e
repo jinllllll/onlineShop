@@ -1,0 +1,5 @@
+package onlineShop.log;
+
+public class PaymentAction {
+
+}
